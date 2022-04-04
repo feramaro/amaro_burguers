@@ -99,6 +99,7 @@ footer p {
   display: inline-block;
   margin: 5px;
   padding: 2px;
+  background: #fff;
 }
 
 .menu-item-card > img {
