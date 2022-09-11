@@ -1,5 +1,5 @@
 
-# Amaro Burguers
+## Amaro Burguers
 ### Bora pedir um lanche?
 
 Criei esse site para praticar html/css, uma coisa da qual eu não sei muito e estou querendo melhorar.
